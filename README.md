@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**un1qu3-Git/un1qu3-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <p align="left"><b><pwn>🔴 🟡 🟢</pwn></b></p>
+ <p>
+ <h3 align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://readme-typing-svg.demolab.com/?lines=$+Hello,++World+:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=10&size=22" />
+
+
+<br>
+</br>
+</h3>
+</p>
+
+
+
