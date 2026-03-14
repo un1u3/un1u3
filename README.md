@@ -3,9 +3,9 @@
 
 ## 🔧 Open Source Contributions
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn/pull/33118)
-- [pgmpy](https://github.com/pgmpy/pgmpy/pull/2702)
 - [statsmodels](https://github.com/statsmodels/statsmodels/pull/9732)
 - [sktime](https://github.com/sktime/sktime/pull/9635)
+- [pgmpy](https://github.com/pgmpy/pgmpy/pull/2702)
 - [PyTorch](https://github.com/pytorch/pytorch/pull/172342)
 
 *scikit-learn PR credited in release notes*
