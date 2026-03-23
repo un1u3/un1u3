@@ -12,7 +12,7 @@
 
 ## 🚀 Projects
 - **[SeismoSafe](https://github.com/un1u3/seismosafe-nepal)** — ML pipeline predicting earthquake damage in Nepal
-- **[Dev-Kota](https://github.com/un1u3/dev-kota)** — Nepali poetry transformer built from scratch in PyTorch
+- **[Dev-Kota](https://github.com/un1u3/devkota)** — Nepali poetry transformer built from scratch in PyTorch
 - **[Drug Safety Predictor](https://github.com/un1u3/drug-safety-predictor)** — patient hospitalization prediction
 - **[XRAI](https://github.com/un1u3/XRAI)** — AI chest X-ray screening assistant(KU hackfest)
 - **[Mero Gunaso](https://github.com/un1u3/mero_gunaso)** — AI-powered citizen complaint analysis for Nepal (on going)
