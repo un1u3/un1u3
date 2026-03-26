@@ -21,7 +21,7 @@
 ## 🏛️ Founded
 **[IOST-ASCOL](https://github.com/IOST-ASCOL)** — Initiative for Open Source Technology @ Amrit Science Campus
 - [nepali-datasets](https://github.com/IOST-ASCOL/nepali-datasets) — 98 ⭐ curated Nepali ML/NLP datasets
-- [doc2tex](https://github.com/IOST-ASCOL/doc2tex) — 48 ⭐ DOCX ↔ LaTeX converter
+- [doc2tex](https://github.com/IOST-ASCOL/doc2tex) — 53 ⭐ DOCX ↔ LaTeX converter
 
 ## 🛠️ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
